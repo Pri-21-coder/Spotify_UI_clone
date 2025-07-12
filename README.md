@@ -1,5 +1,6 @@
 # Spotify_UI_clone
 Author-Pritha Pal
+ <br>
  Recreated a Spotify-Inspired Music Web UI! 
 
 Excited to share a unique mini project I’ve been working on — a Spotify-inspired music streaming interface, built entirely using HTML and CSS, with careful attention to layout, responsiveness, and modern UI principles.
